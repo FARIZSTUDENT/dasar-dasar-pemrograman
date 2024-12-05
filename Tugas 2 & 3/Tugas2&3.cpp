@@ -77,7 +77,7 @@ int main()
         cout << "Silahkan Pilih Menu:" << endl;
         cout << "1. Input Data Mahasiswa" << endl;
         cout << "2. Tampilkan Data Mahasiswa" << endl;
-        cout << "3. Hitung Rata-rata NIM" << endl;
+        cout << "3. Hitung Rata-rata IPK" << endl;
         cout << "4. Keluar" << endl;
         cout << "Pilih: ";
         cin >> pilih;
